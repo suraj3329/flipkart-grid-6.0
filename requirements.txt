@@ -1,0 +1,13 @@
+Flask==3.0.3
+opencv-python==4.10.0.84
+numpy==1.26.4
+keras==3.7.0
+keras.models==0.0.7
+flask_cors==5.0.0
+datetime==5.5
+pyzbar==0.1.9
+pandas==2.2.3
+flask-cors==3.1.1
+inference-sdk==0.29.2  # Adjust this version if you know the specific version
+pillow==10.4.0
+sqlite3  # This is part of the Python standard library, so no need to include it in requirements.txt
